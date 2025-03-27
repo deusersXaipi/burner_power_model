@@ -1,0 +1,7 @@
+pandas
+numpy
+joblib
+optuna
+mysql-connector-python
+scikit-learn
+xgboost
