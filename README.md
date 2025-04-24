@@ -161,6 +161,8 @@ For questions, suggestions, or collaboration:
 
 ---
 
+This contribution has received funding from the European Union's HORIZON-CL4-20-21-TWIN-TRANSITION-01 programme under grant agreement No 10.1058715 - [Self-X-AIPI project website](https://s-x-aipi-project.eu/)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d7d86d47-edc0-468a-89da-84e13ad3ffea" width="200" alt="EU logo">
   &nbsp;&nbsp;
