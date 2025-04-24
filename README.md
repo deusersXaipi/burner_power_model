@@ -161,4 +161,6 @@ For questions, suggestions, or collaboration:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/d7d86d47-edc0-468a-89da-84e13ad3ffea)
+
 > Made with ❤️ for industrial AI projects and continuous improvement.
