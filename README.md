@@ -161,4 +161,10 @@ For questions, suggestions, or collaboration:
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d7d86d47-edc0-468a-89da-84e13ad3ffea" width="200" alt="EU logo">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b8738b8e-c69f-43f7-a434-0a847ad429bc" width="220" alt="SX AIPI logo">
+</p>
+
 > Made with ❤️ for industrial AI projects and continuous improvement.
